@@ -9,7 +9,7 @@
     }
   ],
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/thezooenator/palletizer-102",
   "description": "Modular generic service: palletizer",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
